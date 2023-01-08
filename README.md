@@ -47,7 +47,7 @@ I have been learning code for 4 years and am passionate about teaching what I kn
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Amdadullah-Raihan/doctors-portal-mediplus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amdadullah-Raihan&repo=doctors-portal-mediplus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amdadullah-Raihan/react-edtech-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amdadullah-Raihan&repo=react-edtech-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Amdadullah-Raihan/doctors-portal-mediplus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amdadullah-Raihan&repo=doctors-portal-mediplus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amdadullah-Raihan/react-edtech-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amdadullah-Raihan&repo=react-edtech-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
 
 <br /><br /><br /><br /><br />
 
